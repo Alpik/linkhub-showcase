@@ -1,6 +1,6 @@
 <div align="center">
 
-![LinkHub Logo](your-logo-url.png)
+![LinkHub Logo](https://raw.githubusercontent.com/Alpik/LinkHUB/main/.github/assets/logo.png)
 
 # 🔗 LinkHub
 
