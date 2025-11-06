@@ -529,7 +529,7 @@ Feel free to open an issue or reach out!
 **Béber** - Full-Stack Developer
 
 - 🔗 [Portfolio](https://mylinkhub.link)
-- 💼 [LinkedIn](https://www.linkedin.com/in/alex-mag-a20426391/)
+- 💼 [LinkedIn](www.linkedin.com/in/alpik)
 - 📧 [Email](mylinkhubofficial@gmail.com)
 
 ---
